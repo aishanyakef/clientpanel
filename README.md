@@ -1,6 +1,6 @@
 # Clientpanel
 
-A client debt-tracking/management application made using Angular and Firestore [Visit](https://clientpanalprod-8c66a.firebaseapp.com/)
+A client debt-tracking/management application made using Angular and Firestore. [Visit](https://clientpanalprod-8c66a.firebaseapp.com/)
 
 ## Development server
 
